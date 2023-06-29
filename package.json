@@ -1,0 +1,20 @@
+{
+  "name": "unused-js-css-detector",
+  "version": "1.0.0",
+  "description": "A script to detect unused JavaScript and CSS in a list of URLs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "csv-writer",
+    "unused-js-css"
+  ],
+  "author": "Chris Lever SEO",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^20.7.3",
+    "csv-writer": "^1.6.0"
+  }
+}
