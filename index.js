@@ -3,13 +3,13 @@ const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
 // list of URLs to process
 const urls = [
-'https://www.jessops.com/',
-'https://www.jessops.com/cameras',
-'https://www.jessops.com/cameras/digital-slr-cameras',
-'https://www.jessops.com/shoppingcart',
-'https://www.jessops.com/cameras/mirrorless-cameras',
-'https://www.jessops.com/accessories/lenses',
-'https://www.jessops.com/drones',
+'https://www.dailymail.co.uk/home/index.html',
+'https://www.dailymail.co.uk/news/index.html',
+'https://www.dailymail.co.uk/ushome/index.html',
+'https://www.dailymail.co.uk/sport/index.html',
+'https://www.dailymail.co.uk/tvshowbiz/index.html',
+'https://www.dailymail.co.uk/femail/index.html',
+'https://www.dailymail.co.uk/health/index.html',
 ];
 
 //
